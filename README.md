@@ -2,6 +2,8 @@
 
 A beginner-friendly website about Cursor, the AI-powered code editor. This project helps you learn about Cursor while practicing web development and Git/GitHub workflows.
 
+> **Note:** This is the `dev` branch - where we experiment and test new features!
+
 ## 🌟 Features
 
 - **Modern Design**: Beautiful dark theme with smooth animations
